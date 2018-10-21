@@ -1,0 +1,11 @@
+{
+  "customerCreditRatingSchedule" : "update schedule",
+  "customerCreditRatingAssessment" : "internal bank credit rating/assessment",
+  "internalCreditAnalysisReportReference" : "ICARR9090",
+  "ratingAgencyCreditReportReference" : "RRCRR436",
+  "customerReference" : "CR437",
+  "customerCreditRatingNarrative" : "structured report outlining basis for rating",
+  "customerCreditRatingAssessmentType" : "corporate",
+  "customerCreditRatingAssessmentReference" : "CCRAR232342",
+  "customerBehaviorModel" : "model2"
+}

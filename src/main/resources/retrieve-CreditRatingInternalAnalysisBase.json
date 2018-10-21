@@ -1,0 +1,11 @@
+{
+  "internalCreditAnalysisReport" : "ICAR23476",
+  "internalCreditAnalysisReportDateTime" : "2018-09-06T09:00:00",
+  "internalCreditAnalysisReportReference" : "ICARR23476",
+  "internalCreditAnalysisReportType" : "ICART23476",
+  "customerReference" : "CR987",
+  "customerCreditRatingAssessmentReference" : "CCRAR232342",
+  "productServiceActivityReportReference" : "PSARR4567",
+  "customerBehaviorModel" : "CBM777",
+  "productServiceActivityReport" : "PSAR132"
+}

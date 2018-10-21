@@ -1,0 +1,11 @@
+{
+  "ratingAgencyCreditReportType" : "long/short form report",
+  "ratingAgencyCreditReport" : {},
+  "ratingAgengyCreditReportDateTime" : "2018-09-06T09:00:00",
+  "ratingAgencyCreditReportReference" : "RACRR432",
+  "customerReference" : "CR568",
+  "ratingAgencyAccessServiceSessionReference" : "RAASSR237",
+  "ratingAgencyAccessSchedule" : "service availability",
+  "customerCreditRatingAssessmentReference" : "CCRAR232342",
+  "ratingAgencyReference" : "RAR888"
+}
